@@ -1,7 +1,7 @@
 <div dir="ltr">
 
 # 👋 Hello 
- My name is Armin Khademian. I'm a passionate Front-end Developer who sees the web as a canvas. I believe that my job is about crafting seamless User Experiences (UX) rather than just writing code. Diving deep into [Framework/Technology - e.g., React], I'm always building the next beautiful and performant interface. Let's make something amazing.
+ My name is Armin Khademian. I'm a passionate Front-end Developer who sees the web as a canvas. I believe that my job is about crafting seamless User Experiences (UX) rather than just writing code. Diving deep into Front-End Developing, I'm always building the next beautiful and performant interface. Let's make something amazing.
 
 ---
 
